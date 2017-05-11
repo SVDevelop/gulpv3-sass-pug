@@ -2,13 +2,6 @@
 ![alt tag](https://cs7055.userapi.com/c636720/v636720414/68fb6/123x2uCVepA.jpg)
 
 
-* GIT файлы : []()
-
-* URL(демонстрация) : []()
-
-
-
-
 ## УСТАНОВКА
 
 * Можно скачать проект с панели [https://gitlab.com/](https://gitlab.com/) или в консоле `git` ввести команду: `clone https://gitlab.com/`
