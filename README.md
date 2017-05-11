@@ -1,4 +1,5 @@
-# Верстка сайта Mysupp Service
+# Сборка проекта с помощью GULP + SASS + PUG
+![alt tag](https://cs7055.userapi.com/c636720/v636720414/68fb6/123x2uCVepA.jpg)
 
 
 * GIT файлы : []()
